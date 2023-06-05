@@ -11,8 +11,9 @@ El primer paso para trabajar con cualquier lenguaje de programación es configur
 > * Conocimientos básicos de programación.
 
 ## Requisitos
-> * instalar python (https://www.python.org/)
-> * visual studio code (No es obligatorio ya que python puede correr desde el shell interactivo de python, y hay mas editores de texto)(https://code.visualstudio.com/)
+> * Instalar python (https://www.python.org/)
+> * Visual studio code (No es obligatorio ya que python puede correr desde el shell interactivo de python, y hay mas editores de texto)(https://code.visualstudio.com/)
+> * Git
 > * Github (Manejo de reposigtorios)
 
 <details>
@@ -74,9 +75,9 @@ Comenzaremos nuestro recorrido desde los conceptos más breves y fundamentales, 
 
 ### **First Steps**
 En esta seccion o carpte encontraras los ejercicios mas basicos para empezar a comprender la sintaxis de python en este encontraras lo siguiente:
-* archivo **main.py:** encontraras nuestro primer script el usual hola mundo.
-* archivo **variables.py** en este archivo encontraras ejeplos y una breve explicacion de que es una variable, cuales son las **palabras reservadas** de python, porque **es importante el ingles** y nomenclatura **snake_case** y **camelCase**.
+* Archivo **main.py:** encontraras nuestro primer script el usual hola mundo.
+* Archivo **variables.py** en este archivo encontraras ejeplos y una breve explicacion de que es una variable, cuales son las **palabras reservadas** de python, porque **es importante el ingles** y nomenclatura **Snake_case** y **camelCase**.
 * archivo **constants.py** o constantes encontraras a que se le denomina constante en python y como identificar los.
-* archivo **comments.py** o comentarios encontraras como se comentan lineas de codigo en python y porque es importante comentar.
-* archivo **data_types.py** o tipos de datos encontraras los tipos de datos que existen en python y como identificarlos.
+* Archivo **comments.py** o comentarios encontraras como se comentan lineas de codigo en python y porque es importante comentar.
+* Archivo **data_types.py** o tipos de datos encontraras los tipos de datos que existen en python y como identificarlos.
 * pendiente jijiji

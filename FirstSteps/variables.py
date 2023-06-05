@@ -15,3 +15,19 @@ tituloCurso = "Curso de Python 3"
 # es importante resaltar el aprender ingles, esto porque la mayoria de los lenguajes de programacion estan en ingles y sus variables por buenas practicas se deben de nombrar en ingles, desde aqui empezaremos a utilizar el ingles para nombrar nuestras variables ejemplo:
 course_name = "Curso de Python 3"
 print(course_name)
+
+#jamas pongas al nombre de varioables numeros al inicio ejemplo:
+# 1curso = "Curso de Python 3"
+# o guiones comas o simbolos raros ejemplo:
+# curso-1 = "Curso de Python 3"
+# esto por que python no lo permite y nos dara un error por sintaxis
+
+#asignar variables multiples
+#en python podemos asignar multiples variables en una sola linea de codigo ejemplo:
+x, book = 100, "I Robot"
+print(x)
+print(book)
+#podemos asignar el mismo valor a multiples variables ejemplo:
+x = book = 100
+print(x)
+print(book)
