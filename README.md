@@ -79,3 +79,4 @@ En esta seccion o carpte encontraras los ejercicios mas basicos para empezar a c
 * archivo **constants.py** o constantes encontraras a que se le denomina constante en python y como identificar los.
 * archivo **comments.py** o comentarios encontraras como se comentan lineas de codigo en python y porque es importante comentar.
 * archivo **data_types.py** o tipos de datos encontraras los tipos de datos que existen en python y como identificarlos.
+* pendiente jijiji
