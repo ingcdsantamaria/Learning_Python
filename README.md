@@ -37,7 +37,7 @@ El primer paso para trabajar con cualquier lenguaje de programación es configur
 
 Este repositorio ha sido creado con el propósito de ayudarte a aprender Python desde los conceptos más básicos hasta los más avanzados. Aquí encontrarás una variedad de recursos, ejemplos de código y explicaciones detalladas que te guiarán en tu viaje de aprendizaje.
 
-[![Visita mi Canal de YouTube](https://img.shields.io/badge/Visita%20mi%20Canal-YouTube-red)](https://www.youtube.com/tucanaldeyoutube)
+[![Visita mi Canal de YouTube](https://img.shields.io/badge/Visita%20mi%20Canal-YouTube-red)](https://www.youtube.com/tucanaldeyoutube)>(aun se encuentra en construccion)
 
 Además, te invito a visitar mi canal de YouTube, donde encontrarás una serie de videos complementarios a este repositorio. Estos videos están diseñados para brindar una experiencia visual y práctica, permitiéndote aprender de forma más interactiva. A través de ellos, podrás enfrentarte a diferentes desafíos y solucionar errores comunes que puedan surgir durante tu práctica de Python.
 
@@ -73,11 +73,16 @@ Comenzaremos nuestro recorrido desde los conceptos más breves y fundamentales, 
 * Comunidad activa: Python tiene una comunidad de desarrolladores muy activa que contribuye con bibliotecas, marcos de trabajo y documentación, lo que facilita aún más el desarrollo de proyectos.
 
 
-### **First Steps**
-En esta seccion o carpte encontraras los ejercicios mas basicos para empezar a comprender la sintaxis de python en este encontraras lo siguiente:
-* Archivo **main.py:** encontraras nuestro primer script el usual hola mundo.
-* Archivo **variables.py** en este archivo encontraras ejeplos y una breve explicacion de que es una variable, cuales son las **palabras reservadas** de python, porque **es importante el ingles** y nomenclatura **Snake_case** y **camelCase**.
+### **[First Steps](FirstSteps)**
+En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a comprender la sintaxis de python en este encontraras lo siguiente:
+* Archivo **[main.py:](FirstSteps/main.py)** encontraras nuestro primer script el usual hola mundo.
+* Archivo **[variables.py:](FirstSteps/variables.py)** en este archivo encontraras ejeplos y una breve explicacion de que es una variable, cuales son las **palabras reservadas** de python, porque **es importante el ingles** y nomenclatura **Snake_case** y **camelCase**.
 * archivo **constants.py** o constantes encontraras a que se le denomina constante en python y como identificar los.
 * Archivo **comments.py** o comentarios encontraras como se comentan lineas de codigo en python y porque es importante comentar.
 * Archivo **data_types.py** o tipos de datos encontraras los tipos de datos que existen en python y como identificarlos.
+* Archivo **numbers.py** o numeros encontraras los tipos de numeros que existen en python, como identificarlos, como convertirlos.
+* Archivo **arithmetic_operators.py** o operadores aritmeticos encontraras los diferentes operadores aritmeticos que existen en python.
+* Archivo **string.py** o cadenas encontraras los diferentes tipos de cadenas que existen en python, como identificarlos, las diferentes formas de crear una variable string como lo son con **comillas simples**, **comillas dobles** y **comillas triples**, y sus diferentes saltos de linea y tabulaciones.
+* Archivo **concatenate.py** o concatenar encontraras las diferentes formas de concatenar cadenas en python.
+* Archivo **string_methods.py** o metodos de cadenas encontraras los diferentes metodos que existen para las cadenas en python.
 * pendiente jijiji

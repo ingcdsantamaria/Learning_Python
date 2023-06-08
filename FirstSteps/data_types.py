@@ -28,28 +28,6 @@ print(number)
 float_number = -3.53
 float_number = 3.53
 print(float_number)
-# 3.1 siempre que trabajemos con numeros podemos hacer uso de operadores aritmeticos como:
-# 3.1.1. Suma
-sum = 3 + 2
-print(sum)
-# 3.1.2. Resta
-rest = 3 - 2
-print(rest)
-# 3.1.3. Multiplicacion
-mult = 3 * 2
-print(mult)
-# 3.1.4. Division
-div = 3 / 2
-print(div)
-# 3.1.5. Modulo
-mod = 3 % 2
-print(mod)
-# 3.1.6. Exponente
-exp = 3 ** 2
-print(exp)
-# 3.1.7. Division entera
-div_int = 3 // 2
-print(div_int)
 
 # 4. Bool (verdadero o falso)
 boolean = True
