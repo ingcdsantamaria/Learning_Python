@@ -30,6 +30,7 @@ El primer paso para trabajar con cualquier lenguaje de programación es configur
   - [Que es Python?](#que-es-python)
     - [Caracteristicas](#caracteristicas)
     - [**First Steps**](#first-steps)
+    - [**Methods**](#methods)
 </details>
 
 
@@ -75,14 +76,18 @@ Comenzaremos nuestro recorrido desde los conceptos más breves y fundamentales, 
 
 ### **[First Steps](FirstSteps)**
 En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a comprender la sintaxis de python en este encontraras lo siguiente:
-* Archivo **[main.py:](FirstSteps/main.py)** encontraras nuestro primer script el usual hola mundo.
+
+* Archivo **[main.py:](FirstSteps/main.py)** encontraras nuestro primer script el usual pero clasico **Hello World**.
 * Archivo **[variables.py:](FirstSteps/variables.py)** en este archivo encontraras ejeplos y una breve explicacion de que es una variable, cuales son las **palabras reservadas** de python, porque **es importante el ingles** y nomenclatura **Snake_case** y **camelCase**.
-* archivo **constants.py** o constantes encontraras a que se le denomina constante en python y como identificar los.
-* Archivo **comments.py** o comentarios encontraras como se comentan lineas de codigo en python y porque es importante comentar.
-* Archivo **data_types.py** o tipos de datos encontraras los tipos de datos que existen en python y como identificarlos.
-* Archivo **numbers.py** o numeros encontraras los tipos de numeros que existen en python, como identificarlos, como convertirlos.
-* Archivo **arithmetic_operators.py** o operadores aritmeticos encontraras los diferentes operadores aritmeticos que existen en python.
-* Archivo **string.py** o cadenas encontraras los diferentes tipos de cadenas que existen en python, como identificarlos, las diferentes formas de crear una variable string como lo son con **comillas simples**, **comillas dobles** y **comillas triples**, y sus diferentes saltos de linea y tabulaciones.
-* Archivo **concatenate.py** o concatenar encontraras las diferentes formas de concatenar cadenas en python.
-* Archivo **string_methods.py** o metodos de cadenas encontraras los diferentes metodos que existen para las cadenas en python.
-* pendiente jijiji
+* archivo **[constants.py:](FirstSteps/constants.py)** o constantes encontraras a que se le denomina constante en python y como identificar los.
+* Archivo **[comments.py:](FirstSteps/comments.py)** o comentarios encontraras como se comentan lineas de codigo en python y porque es importante comentar.
+* Archivo **[data_types.py:](FirstSteps/data_types.py)** o tipos de datos encontraras los tipos de datos que existen en python y como identificarlos.
+* Archivo **[numbers.py:](FirstSteps/numbers.py)** o numeros encontraras los tipos de numeros que existen en python, como identificarlos, como convertirlos.
+* Archivo **[arithmetic_operators.py:](FirstSteps/arithmetic_operators.py)** o operadores aritmeticos encontraras los diferentes operadores aritmeticos que existen en python.
+* Archivo **[string.py:](FirstSteps/strings.py)** o cadenas encontraras los diferentes tipos de cadenas que existen en python, como identificarlos, las diferentes formas de crear una variable string como lo son con **comillas simples**, **comillas dobles** y **comillas triples**, y sus diferentes saltos de linea y tabulaciones.
+* Archivo **[concatenate.py:](FirstSteps/concatenate.py)** o concatenar encontraras las diferentes formas de concatenar cadenas en python.
+
+### **[Methods](Methods)**
+
+* Archivo **[string_methods.py:](Methods/string_methods.py)** o metodos de cadenas encontraras los diferentes metodos que existen para las cadenas en python**(hay muchos mas pero se abarcan los mas importantes).**
+* **ABIERTO A NUEVOS CAMBIOS Y COMENTARIOS**
