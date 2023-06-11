@@ -13,7 +13,7 @@ El primer paso para trabajar con cualquier lenguaje de programación es configur
 ## Requisitos
 > * Instalar python (https://www.python.org/)
 > * Visual studio code (No es obligatorio ya que python puede correr desde el shell interactivo de python, y hay mas editores de texto)(https://code.visualstudio.com/)
-> * Git
+> * Git (Manejo de control de versiones)
 > * Github (Manejo de reposigtorios)
 
 <details>
@@ -33,7 +33,6 @@ El primer paso para trabajar con cualquier lenguaje de programación es configur
     - [**Methods**](#methods)
 </details>
 
-
 ## Repositorio de Aprendizaje de Python
 
 Este repositorio ha sido creado con el propósito de ayudarte a aprender Python desde los conceptos más básicos hasta los más avanzados. Aquí encontrarás una variedad de recursos, ejemplos de código y explicaciones detalladas que te guiarán en tu viaje de aprendizaje.
@@ -43,7 +42,6 @@ Este repositorio ha sido creado con el propósito de ayudarte a aprender Python 
 Además, te invito a visitar mi canal de YouTube, donde encontrarás una serie de videos complementarios a este repositorio. Estos videos están diseñados para brindar una experiencia visual y práctica, permitiéndote aprender de forma más interactiva. A través de ellos, podrás enfrentarte a diferentes desafíos y solucionar errores comunes que puedan surgir durante tu práctica de Python.
 
 Comenzaremos nuestro recorrido desde los conceptos más breves y fundamentales, lo que te permitirá establecer una base sólida para comprender los temas más complejos a medida que avancemos. No importa si eres un principiante absoluto o si ya tienes algo de experiencia en Python, este repositorio está diseñado para adaptarse a diferentes niveles de conocimiento.
-
 
 ## Recursos Incluidos
 
@@ -56,7 +54,6 @@ Comenzaremos nuestro recorrido desde los conceptos más breves y fundamentales, 
 ¡Explora los diferentes recursos, sumérgete en la documentación y disfruta de tu proceso de aprendizaje en Python! Si tienes alguna pregunta o necesitas ayuda, no dudes en abrir un problema en este repositorio.
 
 ¡Feliz aprendizaje y programación en Python!
-
 
 ## Que es Python?
 > Es un lenguaje de programación interpretado, de alto nivel y de propósito general. Fue creado por Guido van Rossum y lanzado por primera vez en 1991. Python se ha vuelto muy popular en el campo de la programación debido a su sintaxis clara y legible, lo que lo hace fácil de aprender y entender.
@@ -73,7 +70,6 @@ Comenzaremos nuestro recorrido desde los conceptos más breves y fundamentales, 
 
 * Comunidad activa: Python tiene una comunidad de desarrolladores muy activa que contribuye con bibliotecas, marcos de trabajo y documentación, lo que facilita aún más el desarrollo de proyectos.
 
-
 ### **[First Steps](FirstSteps)**
 En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a comprender la sintaxis de python en este encontraras lo siguiente:
 
@@ -86,6 +82,8 @@ En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a 
 * Archivo **[arithmetic_operators.py:](FirstSteps/arithmetic_operators.py)** o operadores aritmeticos encontraras los diferentes operadores aritmeticos que existen en python.
 * Archivo **[string.py:](FirstSteps/strings.py)** o cadenas encontraras los diferentes tipos de cadenas que existen en python, como identificarlos, las diferentes formas de crear una variable string como lo son con **comillas simples**, **comillas dobles** y **comillas triples**, y sus diferentes saltos de linea y tabulaciones.
 * Archivo **[concatenate.py:](FirstSteps/concatenate.py)** o concatenar encontraras las diferentes formas de concatenar cadenas en python.
+* Archivo **[relationals_operators.py:](FirstSteps/relationals_operators.py)** o operadores relacionales encontraras los diferentes operadores relacionales que existen en python y que es un booleano.
+* Archivo **[logic_operators.py:](FirstSteps/logic_operators.py)** o operadores logicos encontraras los diferentes operadores logicos que existen en python.
 
 ### **[Methods](Methods)**
 
