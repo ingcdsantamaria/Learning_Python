@@ -84,8 +84,11 @@ En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a 
 * Archivo **[concatenate.py:](FirstSteps/concatenate.py)** o concatenar encontraras las diferentes formas de concatenar cadenas en python.
 * Archivo **[relationals_operators.py:](FirstSteps/relationals_operators.py)** o operadores relacionales encontraras los diferentes operadores relacionales que existen en python y que es un booleano.
 * Archivo **[logic_operators.py:](FirstSteps/logic_operators.py)** o operadores logicos encontraras los diferentes operadores logicos que existen en python.
+* Archivo **[access_lists.py:](FirstSteps/access_lists.py)** o acceso a listas encontraras como acceder a los elementos de una lista, donde tambien encontraras como ver la longitud de una lista y como unir listas.
+* Archivo **[change_lists.py:](FirstSteps/change_lists.py)** o cambiar listas encontraras como cambiar los elementos de una lista.
 
 ### **[Methods](Methods)**
 
-* Archivo **[string_methods.py:](Methods/string_methods.py)** o metodos de cadenas encontraras los diferentes metodos que existen para las cadenas en python**(hay muchos mas pero se abarcan los mas importantes).**
+* Archivo **[string_methods.py:](Methods/string_methods.py)** o metodos de cadenas encontraras los diferentes metodos que existen para las cadenas en python **(hay muchos mas pero se abarcan los mas importantes).**
+* Archivo **[list_methods.py:](Methods/list_methods.py)** o metodos de listas encontraras los diferentes metodos que existen para las listas en python como: **agrergar elementos, ordenar listas, invertir listas, copiar listas, unir listas y eliminar elementos**.
 * **ABIERTO A NUEVOS CAMBIOS Y COMENTARIOS**

@@ -41,7 +41,21 @@ print(type(number))
 print(type(float_number))
 print(type(boolean))
 
+#En este archivo hablaremos de las listas las cuales pueden almacenar diferentes tipos de datos(enteros, flotantes, cadenas, booleanos, etc)
+#Las listas estan representadas por corchetes y los elementos de la lista estan separados por comas []
+
+#Sintaxis de una listas
+list1 = [12, "martes", False, "viernes", -200.78]
+print(list1)
+print(type(list1))
+
+list2 = ["venus", "tierra", "marte", "jupiter", "saturno", "urano", "neptuno", "pluton"]
+print(list2)
+print(type(list2))
+
+
 #Listas, que es una lista, una lista es una estructura de datos que nos permite organizar elementos de manera secuencial, es decir, uno detras de otro, en python las listas pueden guardar diferentes tipos de datos, por ejemplo:
+
 # 1. List
 # 1.1. Podemos crear una lista vacia
 my_list = []
