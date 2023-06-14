@@ -1,43 +1,50 @@
 # Learning_Python
+
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 
 ## Introduccion
+
 El primer paso para trabajar con cualquier lenguaje de programación es configurar las herramientas necesarias. La mayoría de los desarrolladores usan un editor de código, como Visual Studio Code, porque estas herramientas permiten autocompletar el código y resaltar los errores de sintaxis. Los editores de código también proporcionan acceso a un amplio conjunto de complementos para mejorar aún más la experiencia de desarrollo.
 
 ## Prerrequisitos
+
 > * Capacidad de instalar programas localmente.
 > * Conocimientos sobre cómo abrir y ejecutar comandos desde una ventana de comando o terminal.
 > * Conocimientos básicos de programación.
 
 ## Requisitos
-> * Instalar python (https://www.python.org/)
-> * Visual studio code (No es obligatorio ya que python puede correr desde el shell interactivo de python, y hay mas editores de texto)(https://code.visualstudio.com/)
-> * Git (Manejo de control de versiones)
-> * Github (Manejo de reposigtorios)
+
+> * Instalar Python ([Sitio web oficial de Python](https://www.python.org/))
+> * Visual Studio Code (No es obligatorio ya que Python se puede ejecutar desde el shell interactivo de Python, y hay otros editores de texto disponibles) ([Descargar Visual Studio Code](https://code.visualstudio.com/))
+> * Git (Herramienta de control de versiones) ([Sitio web oficial de Git](https://git-scm.com/))
+> * GitHub (Plataforma de gestión de repositorios) ([Sitio web oficial de GitHub](https://github.com/))
 
 <details>
+
 <summary>Tabla de contenido</summary>
 
 ## TABLA DE CONTENIDO
-- [Learning\_Python](#learning_python)
-  - [Introduccion](#introduccion)
-  - [Prerrequisitos](#prerrequisitos)
-  - [Requisitos](#requisitos)
-  - [TABLA DE CONTENIDO](#tabla-de-contenido)
-  - [Repositorio de Aprendizaje de Python](#repositorio-de-aprendizaje-de-python)
-  - [Recursos Incluidos](#recursos-incluidos)
-  - [Que es Python?](#que-es-python)
-    - [Caracteristicas](#caracteristicas)
-    - [**First Steps**](#first-steps)
-    - [**Methods**](#methods)
+
+* [Learning\_Python](#learning_python)
+  * [Introduccion](#introduccion)
+  * [Prerrequisitos](#prerrequisitos)
+  * [Requisitos](#requisitos)
+  * [TABLA DE CONTENIDO](#tabla-de-contenido)
+  * [Repositorio de Aprendizaje de Python](#repositorio-de-aprendizaje-de-python)
+  * [Recursos Incluidos](#recursos-incluidos)
+  * [Que es Python?](#que-es-python)
+    * [Caracteristicas](#caracteristicas)
+    * [**First Steps**](#first-steps)
+    * [**Methods**](#methods)
+
 </details>
 
 ## Repositorio de Aprendizaje de Python
 
 Este repositorio ha sido creado con el propósito de ayudarte a aprender Python desde los conceptos más básicos hasta los más avanzados. Aquí encontrarás una variedad de recursos, ejemplos de código y explicaciones detalladas que te guiarán en tu viaje de aprendizaje.
 
-[![Visita mi Canal de YouTube](https://img.shields.io/badge/Visita%20mi%20Canal-YouTube-red)](https://www.youtube.com/tucanaldeyoutube)>(aun se encuentra en construccion)
+[![Visita mi Canal de YouTube](https://img.shields.io/badge/Visita%20mi%20Canal-YouTube-red)](https://media.giphy.com/media/P5AGXvRzq1MWY/source.gif)
 
 Además, te invito a visitar mi canal de YouTube, donde encontrarás una serie de videos complementarios a este repositorio. Estos videos están diseñados para brindar una experiencia visual y práctica, permitiéndote aprender de forma más interactiva. A través de ellos, podrás enfrentarte a diferentes desafíos y solucionar errores comunes que puedan surgir durante tu práctica de Python.
 
@@ -45,17 +52,18 @@ Comenzaremos nuestro recorrido desde los conceptos más breves y fundamentales, 
 
 ## Recursos Incluidos
 
-- [x] Ejemplos de código Python
-- [x] Documentación detallada
-- [x] Ejercicios prácticos
-- [x] Solución de errores comunes
-- [x] Videos complementarios en YouTube
+* [x] Ejemplos de código Python
+* [x] Documentación detallada
+* [x] Ejercicios prácticos
+* [x] Solución de errores comunes
+* [x] Videos complementarios en YouTube
 
 ¡Explora los diferentes recursos, sumérgete en la documentación y disfruta de tu proceso de aprendizaje en Python! Si tienes alguna pregunta o necesitas ayuda, no dudes en abrir un problema en este repositorio.
 
 ¡Feliz aprendizaje y programación en Python!
 
 ## Que es Python?
+
 > Es un lenguaje de programación interpretado, de alto nivel y de propósito general. Fue creado por Guido van Rossum y lanzado por primera vez en 1991. Python se ha vuelto muy popular en el campo de la programación debido a su sintaxis clara y legible, lo que lo hace fácil de aprender y entender.
 
 ### Caracteristicas
@@ -71,6 +79,7 @@ Comenzaremos nuestro recorrido desde los conceptos más breves y fundamentales, 
 * Comunidad activa: Python tiene una comunidad de desarrolladores muy activa que contribuye con bibliotecas, marcos de trabajo y documentación, lo que facilita aún más el desarrollo de proyectos.
 
 ### **[First Steps](FirstSteps)**
+
 En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a comprender la sintaxis de python en este encontraras lo siguiente:
 
 * Archivo **[main.py:](FirstSteps/main.py)** encontraras nuestro primer script el usual pero clasico **Hello World**.
