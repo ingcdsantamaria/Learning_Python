@@ -96,10 +96,12 @@ En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a 
 * Archivo **[access_lists.py:](FirstSteps/access_lists.py)** o acceso a listas encontraras como acceder a los elementos de una lista, donde tambien encontraras como ver la longitud de una lista y como unir listas.
 * Archivo **[change_lists.py:](FirstSteps/change_lists.py)** o cambiar listas encontraras como cambiar los elementos de una lista.
 * Archivo **[access_tuples.py:](FirstSteps/access_tuples.py)** o acceso a tuplas encontraras como acceder a los elementos de una tupla, donde tambien encontraras como ver la longitud de una tupla, como unir tuplas y como convertir una tupla en una lista y viceversa.
+* Archivo **[access_dictionaries.py:](FirstSteps/access_dictionaries.py)** o acceso a diccionarios encontraras como acceder a los elementos de un diccionario, donde tambien encontraras como ver la longitud de un diccionario, tambien encontraras cambio de elementos, como agregar elementos, como eliminar elementos.
 
 ### **[Methods](Methods)**
 
 * Archivo **[string_methods.py:](Methods/string_methods.py)** o metodos de cadenas encontraras los diferentes metodos que existen para las cadenas en python **(hay muchos mas pero se abarcan los mas importantes).**
 * Archivo **[list_methods.py:](Methods/list_methods.py)** o metodos de listas encontraras los diferentes metodos que existen para las listas en python como: **agrergar elementos, ordenar listas, invertir listas, copiar listas, unir listas y eliminar elementos**.
 * Archivo **[tuples_methods.py:](Methods/tuples_methods.py)** o metodos de tuplas encontraras los diferentes metodos que existen para las tuplas en python como: **count(), index()**, y para que sirven.
+* Archivo **[dictionary_methods.py:](Methods/dictionary_methods.py)** o metodos de diccionarios encontraras los diferentes metodos que existen para los diccionarios en python como: **metodos de agregacion, metodos de eliminacion, metodos de replicacion, metodos de actualizacion, metodos de busqueda** y para que sirven.
 * **ABIERTO A NUEVOS CAMBIOS Y COMENTARIOS**

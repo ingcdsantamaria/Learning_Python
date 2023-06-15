@@ -105,7 +105,23 @@ print(type(my_tuple))
 print(my_tuple)
 # la gran diferencia entre una tupla y una lista es que la tupla es inmutable, es decir, no podemos modificarla, no podemos agregarle elementos, no podemos eliminar elementos, no podemos ordenarla, no podemos buscar elementos, etc, a diferencia de la lista que si podemos hacer todas estas operaciones, esto lo veremos mas adelante
 
-#diccionarios, que es un diccionario, un diccionario es una estructura de datos que nos permite organizar elementos de manera NO secuencial, es decir, no es uno detras de otro, en python los diccionarios pueden guardar diferentes tipos de datos, por ejemplo:
+#Los diccionarios permieten almacenar diferentes tipos de datos(enteros, flotantes, cadenas, booleanos, etc)
+#esta se representan por llaves y los elementos de la lista estan separados por comas {}, cada elemento de la lista esta compuesto por una clave y un valor, la clave y el valor estan separados por dos puntos :
+#Para identificar un elemento se utiliza una clave y un valor.
+
+dic1 = {
+    "number" : 1,
+    "string" : "hola",
+    "boolean" : True,
+    "list" : [1, 2, 3, 4, 5],
+    "tuple" : (1, 2, 3, 4, 5),
+    "float" : 3.1416,
+}
+
+print("El diccionario es: ", dic1)
+print("El tipo de dato del diccionario es: ", type(dic1))
+
+# diccionarios, que es un diccionario, un diccionario es una estructura de datos que nos permite organizar elementos de manera NO secuencial, es decir, no es uno detras de otro, en python los diccionarios pueden guardar diferentes tipos de datos, por ejemplo:
 # 1. Dictionary
 # 1.1. Podemos crear un diccionario vacio
 my_dictionary = {}
