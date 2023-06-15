@@ -74,6 +74,22 @@ print(my_list)
 
 #tuple, que es una tupla, una tupla es una estructura de datos que nos permite organizar elementos de manera secuencial, es decir, uno detras de otro, en python las tuplas pueden guardar diferentes tipos de datos, por ejemplo:
 # 1. Tuple
+
+# Una tupla en si es una lista que no se puede agregar ni eliminar elementos, es decir, es inmutable
+# Se puede representar con parentesis o sin parentesis ()
+# Para acceder a un elemento se realiza mediante el indice, el indice empieza desde 0
+
+#Sintaxis de una tupla
+#Con parentesis
+tuple1 = (1, 2, 3, 4, 5)
+print(tuple1)
+print(type(tuple1))
+
+#Sin parentesis
+tuple2 = "perro", "gato", "loro"
+print(tuple2)
+print(type(tuple2))
+
 # 1.1. Podemos crear una tupla vacia
 my_tuple = ()
 # 1.2. Podemos crear una tupla con datos
