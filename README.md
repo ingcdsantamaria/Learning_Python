@@ -37,6 +37,8 @@ El primer paso para trabajar con cualquier lenguaje de programación es configur
     * [Caracteristicas](#caracteristicas)
     * [**First Steps**](#first-steps)
     * [**Methods**](#methods)
+    * [**Conditionals**](#conditionals)
+    * [**Loops**](#loops)
 
 </details>
 
@@ -82,6 +84,8 @@ Comenzaremos nuestro recorrido desde los conceptos más breves y fundamentales, 
 
 En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a comprender la sintaxis de python en este encontraras lo siguiente:
 
+En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a comprender la sintaxis de python en este encontraras lo siguiente:
+
 * Archivo **[main.py:](FirstSteps/main.py)** encontraras nuestro primer script el usual pero clasico **Hello World**.
 * Archivo **[variables.py:](FirstSteps/variables.py)** en este archivo encontraras ejeplos y una breve explicacion de que es una variable, cuales son las **palabras reservadas** de python, porque **es importante el ingles** y nomenclatura **Snake_case** y **camelCase**.
 * archivo **[constants.py:](FirstSteps/constants.py)** o constantes encontraras a que se le denomina constante en python y como identificar los.
@@ -97,11 +101,29 @@ En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a 
 * Archivo **[change_lists.py:](FirstSteps/change_lists.py)** o cambiar listas encontraras como cambiar los elementos de una lista.
 * Archivo **[access_tuples.py:](FirstSteps/access_tuples.py)** o acceso a tuplas encontraras como acceder a los elementos de una tupla, donde tambien encontraras como ver la longitud de una tupla, como unir tuplas y como convertir una tupla en una lista y viceversa.
 * Archivo **[access_dictionaries.py:](FirstSteps/access_dictionaries.py)** o acceso a diccionarios encontraras como acceder a los elementos de un diccionario, donde tambien encontraras como ver la longitud de un diccionario, tambien encontraras cambio de elementos, como agregar elementos, como eliminar elementos.
+* Archivo **[input.py:](FirstSteps/input.py)** o entrada de datos encontraras como ingresar datos por teclado y como convertirlos a diferentes tipos de datos.
+* Archivo **[in_not-in.py:](FirstSteps/in_not-in.py)** o in y not in encontraras como saber si un elemento se encuentra en una lista o tupla y como saber si un elemento no se encuentra en una lista o tupla.
 
 ### **[Methods](Methods)**
+
+En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a comprender la sintaxis de python en este encontraras lo siguiente:
 
 * Archivo **[string_methods.py:](Methods/string_methods.py)** o metodos de cadenas encontraras los diferentes metodos que existen para las cadenas en python **(hay muchos mas pero se abarcan los mas importantes).**
 * Archivo **[list_methods.py:](Methods/list_methods.py)** o metodos de listas encontraras los diferentes metodos que existen para las listas en python como: **agrergar elementos, ordenar listas, invertir listas, copiar listas, unir listas y eliminar elementos**.
 * Archivo **[tuples_methods.py:](Methods/tuples_methods.py)** o metodos de tuplas encontraras los diferentes metodos que existen para las tuplas en python como: **count(), index()**, y para que sirven.
-* Archivo **[dictionary_methods.py:](Methods/dictionary_methods.py)** o metodos de diccionarios encontraras los diferentes metodos que existen para los diccionarios en python como: **metodos de agregacion, metodos de eliminacion, metodos de replicacion, metodos de actualizacion, metodos de busqueda** y para que sirven.
+* Archivo **[dictionaries_methods.py:](Methods/dictionaries_methods.py)** o metodos de diccionarios encontraras los diferentes metodos que existen para los diccionarios en python como: **metodos de agregacion, metodos de eliminacion, metodos de replicacion, metodos de actualizacion, metodos de busqueda** y para que sirven.
+
+### **[Conditionals](Conditionals)**
+
+En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a comprender los condicionales en python en este encontraras lo siguiente:
+
+* Archivo **[if.py:](Conditionals/if.py)** o condicional if encontraras como funciona el condicional if, elif y else.
+
+### **[Loops](Loops)**
+
+En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a comprender los ciclos en python en este encontraras lo siguiente:
+
+* Archivo **[for.py:](Loops/for.py)** o ciclo for encontraras como funciona el ciclo for y como funciona el ciclo for con el condicional if, y las diferentes sentencias que se pueden usar en el ciclo for como lo son: **break, continue, pass**.
+* Archivo **[while.py:](Loops/while.py)** o ciclo while encontraras como funciona el ciclo while y las diferentes sentencias que se pueden usar en el ciclo while como lo son: **break y continue**, tanto en incremento como en decremento.
+
 * **ABIERTO A NUEVOS CAMBIOS Y COMENTARIOS**
