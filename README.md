@@ -66,6 +66,8 @@ Comenzaremos nuestro recorrido desde los conceptos más breves y fundamentales, 
 
 ## Que es Python?
 
+![Python](https://elpythonista.com/wp-content/uploads/2020/10/Que_Es_Python-2-768x432.jpg)
+
 > Es un lenguaje de programación interpretado, de alto nivel y de propósito general. Fue creado por Guido van Rossum y lanzado por primera vez en 1991. Python se ha vuelto muy popular en el campo de la programación debido a su sintaxis clara y legible, lo que lo hace fácil de aprender y entender.
 
 ### Caracteristicas
@@ -81,6 +83,8 @@ Comenzaremos nuestro recorrido desde los conceptos más breves y fundamentales, 
 * Comunidad activa: Python tiene una comunidad de desarrolladores muy activa que contribuye con bibliotecas, marcos de trabajo y documentación, lo que facilita aún más el desarrollo de proyectos.
 
 ### **[First Steps](FirstSteps)**
+
+![First Steps](https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)
 
 En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a comprender la sintaxis de python en este encontraras lo siguiente:
 
@@ -103,8 +107,11 @@ En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a 
 * Archivo **[access_dictionaries.py:](FirstSteps/access_dictionaries.py)** o acceso a diccionarios encontraras como acceder a los elementos de un diccionario, donde tambien encontraras como ver la longitud de un diccionario, tambien encontraras cambio de elementos, como agregar elementos, como eliminar elementos.
 * Archivo **[input.py:](FirstSteps/input.py)** o entrada de datos encontraras como ingresar datos por teclado y como convertirlos a diferentes tipos de datos.
 * Archivo **[in_not-in.py:](FirstSteps/in_not-in.py)** o in y not in encontraras como saber si un elemento se encuentra en una lista o tupla y como saber si un elemento no se encuentra en una lista o tupla.
+* Archivo **[access_sets.py:](FirstSteps/access_sets.py)** o acceso a conjuntos encontraras como acceder a los elementos de un conjunto, donde tambien encontraras como ver la longitud de un conjunto, tambien encontraras cambio de elementos.
 
 ### **[Methods](Methods)**
+
+![Methods](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/11/Types-of-Methods-in-Python.jpg)
 
 En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a comprender la sintaxis de python en este encontraras lo siguiente:
 
@@ -112,6 +119,7 @@ En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a 
 * Archivo **[list_methods.py:](Methods/list_methods.py)** o metodos de listas encontraras los diferentes metodos que existen para las listas en python como: **agrergar elementos, ordenar listas, invertir listas, copiar listas, unir listas y eliminar elementos**.
 * Archivo **[tuples_methods.py:](Methods/tuples_methods.py)** o metodos de tuplas encontraras los diferentes metodos que existen para las tuplas en python como: **count(), index()**, y para que sirven.
 * Archivo **[dictionaries_methods.py:](Methods/dictionaries_methods.py)** o metodos de diccionarios encontraras los diferentes metodos que existen para los diccionarios en python como: **metodos de agregacion, metodos de eliminacion, metodos de replicacion, metodos de actualizacion, metodos de busqueda** y para que sirven.
+* Archivo **[sets_methods.py:](Methods/sets_methods.py)** o metodos de conjuntos encontraras los diferentes metodos que existen para los conjuntos en python como: **(add(), clear(), copy(), discard(), pop(), remove(), union(), update())**.
 
 ### **[Conditionals](Conditionals)**
 
@@ -120,6 +128,8 @@ En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a 
 * Archivo **[if.py:](Conditionals/if.py)** o condicional if encontraras como funciona el condicional if, elif y else.
 
 ### **[Loops](Loops)**
+
+![Loops](https://blog.penjee.com/wp-content/uploads/2015/03/while-loop-animation-python.gif)
 
 En esta seccion o carpeta encontraras los ejercicios mas basicos para empezar a comprender los ciclos en python en este encontraras lo siguiente:
 

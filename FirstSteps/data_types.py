@@ -158,4 +158,16 @@ my_set = {"Perro", "Gato", "Leon"}
 var_st = set(my_set)
 print(var_st)
 # que operaciones nos permite hacer un conjunto en python, nos permite agregar elementos, eliminar elementos, ordenar elementos, buscar elementos, etc, esto lo veremos mas adelante
+
+# Un conjunto es una colección desordenada de elementos únicos.
+# * Representa a un conjunto unico de elementos, en donde no se repite ningun elemento.
+# * Pueden aparecer en un orden diferente cad vez que se utilizan.
+# * No se puede hacer referencia a ellos por indice o clave.
+# * No se pueden modificar una vez creado el conjunto, pero si agregar o eliminar elementos.
+
+listCell = ["ASUS", "HP", "DELL", "ACER", "lENOVO"]
+set_list = set(listCell)
+print(set_list)
+print(type(set_list))
+
 # la diferencia entre el conjunto, dicicionario, tuplas y listas es que el conjunto es una estructura de datos que nos permite organizar elementos de manera secuencial, es decir, uno detras de otro, a diferencia del diccionario que es una estructura de datos que nos permite organizar elementos de manera NO secuencial, es decir, no es uno detras de otro, a diferencia de la lista y la tupla que si son elementos de manera secuencial, esto lo veremos mas adelante
